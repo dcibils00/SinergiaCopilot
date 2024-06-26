@@ -1194,4 +1194,7 @@
         Esto quiere decir que, si bien los Paquete de Créditos salen lo mismo para todos los Usuarios, a la hora de utilizarlos los miembros de la Comunidad gastarán la mitad que quienes no tienen ese beneficio.
         
 
+    Plan de Cowork Libre: USD 155 (IVA incluido) por mes
+    Plan de Cowork Duo: USD 105 (IVA incluido) por mes
+
 ---
