@@ -1197,4 +1197,6 @@
     Plan de Cowork Libre: USD 155 (IVA incluido) por mes
     Plan de Cowork Duo: USD 105 (IVA incluido) por mes
 
+    Plan Ofician, debe consultar con un vendedor de senergia
+
 ---
